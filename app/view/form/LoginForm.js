@@ -24,7 +24,6 @@ Ext.define('EastWind.view.form.LoginForm', {
   buttons: [{
     formbind: true,
     text: 'Login',
-    scale: 'large',
     listeners: {
       click: 'doLogin'
     }

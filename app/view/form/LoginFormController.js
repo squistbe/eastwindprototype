@@ -5,7 +5,10 @@ Ext.define('EastWind.view.form.LoginFormController', {
   doLogin: function (button, event) {
     Ext.create('EastWind.view.form.NetworkConfigForm', {
       renderTo: Ext.getBody(),
-      width: 500,
+      width: 400,
+      frame: true,
+      showSave: true,
+      title: 'Configure Network',
       style: {
         position: 'absolute',
         left: '50%',

@@ -2,8 +2,6 @@ Ext.define('EastWind.view.form.NetworkConfigForm', {
   extend: 'Ext.form.Panel',
   alias: 'widget.networkconfigform',
   controller: 'networkconfigform',
-  title: 'Network Configuration',
-  frame: true,
   bodyPadding: 20,
   defaultType: 'textfield',
   fieldDefaults: {
@@ -32,20 +30,35 @@ Ext.define('EastWind.view.form.NetworkConfigForm', {
     fieldLabel: 'Gateway',
     name: 'gateway'
   }],
-  buttons: [{
-    text: 'Clear',
-    scale: 'large',
-    listeners: {
-      click: 'clearForm'
-    }
-  }, {
-    text: 'Save',
-    scale: 'large',
-    listeners: {
-      click: 'saveNetworkConfig'
-    }
-  }],
   listeners: {
-    render: 'onRender'
+    afterrender: 'onRender'
+  },
+
+  initComponent: function () {
+    if (this.showSave) {
+      this.buttons = [{
+        text: 'Clear',
+        listeners: {
+          click: 'clearForm'
+        }
+      }, {
+        text: 'Save',
+        listeners: {
+          click: 'saveNetworkConfig'
+        }
+      }];
+    }
+    this.callParent();
+
+    if (this.showEdit) {
+      this.add({
+        xtype: 'button',
+        text: 'Edit',
+        itemdId: 'editForm',
+        listeners: {
+          click: 'editForm'
+        }
+      });
+    }
   }
 });

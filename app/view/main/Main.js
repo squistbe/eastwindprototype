@@ -1,10 +1,3 @@
-/**
- * This class is the main view for the application. It is specified in app.js as the
- * "autoCreateViewport" property. That setting automatically applies the "viewport"
- * plugin to promote that instance of this class to the body element.
- *
- * TODO - Replace this content of this view to suite the needs of your application.
- */
 Ext.define('EastWind.view.main.Main', {
   extend: 'Ext.container.Viewport',
   requires: [
@@ -27,7 +20,45 @@ Ext.define('EastWind.view.main.Main', {
     {
       region: 'center',
       xtype: 'panel',
-      title: 'Network Configuration'
+      title: 'East Wind Networks',
+      bodyPadding: 20,
+      layout: {
+        type: 'hbox',
+        pack: 'start',
+        align: 'stretch'
+      },
+      defaults: {
+        tools: [
+          {
+            type: 'help'
+          },
+          {
+            type: 'gear'
+          },
+          {
+            type: 'toggle'
+          }
+        ]
+      },
+      items: [
+        {
+          xtype: 'networkconfigform',
+          defaultType: 'displayfield',
+          showSave: false,
+          margin: '0 20 0 0',
+          frame: true,
+          flex: 1,
+          title: 'Network Information'
+        },
+        {
+          xtype: 'panel',
+          title: 'Statistics',
+          bodyPadding: 20,
+          html: 'You will see charts, statistics, etc. right here',
+          flex: 1,
+          frame: true
+        }
+      ]
     }
   ]
 });

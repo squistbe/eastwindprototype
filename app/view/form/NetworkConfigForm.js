@@ -33,10 +33,19 @@ Ext.define('EastWind.view.form.NetworkConfigForm', {
     name: 'gateway'
   }],
   buttons: [{
+    text: 'Clear',
+    scale: 'large',
+    listeners: {
+      click: 'clearForm'
+    }
+  }, {
     text: 'Save',
     scale: 'large',
     listeners: {
       click: 'saveNetworkConfig'
     }
-  }]
+  }],
+  listeners: {
+    render: 'onRender'
+  }
 });

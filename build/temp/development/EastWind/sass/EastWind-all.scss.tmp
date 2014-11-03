@@ -1,6 +1,7 @@
 $image-search-path: '/Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/development/EastWind/resources';
 $theme-name:  'eastwind' !default;
 $include-eastwind-application: true;
+$include-eastwind-model-networkconfig: true;
 $include-eastwind-view-form-loginform: true;
 $include-eastwind-view-form-loginformcontroller: true;
 $include-eastwind-view-form-networkconfigform: true;

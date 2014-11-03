@@ -11,7 +11,8 @@ Ext.define('EastWind.Application', {
     'EastWind.view.form.LoginFormController',
     'EastWind.view.main.Main',
     'EastWind.view.form.NetworkConfigForm',
-    'EastWind.view.form.NetworkConfigFormController'
+    'EastWind.view.form.NetworkConfigFormController',
+    'EastWind.model.NetworkConfig'
   ],
 
   stores: [

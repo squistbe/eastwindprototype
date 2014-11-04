@@ -57,7 +57,9 @@ Ext.define('EastWind.view.main.Main', {
               title: 'Licensing',
               margin: '0 20 0 0',
               frame: true,
-              flex:1
+              flex:1,
+              bodyPadding: 20,
+              html: 'Lorem ipsum dolor sit amet, ante dolor nam ornare tempor, orci netus et, integer enim fringilla a, feugiat et quis id mauris, aenean netus pharetra quibusdam urna aliquam. Sapien scelerisque malesuada magni morbi metus phasellus, praesent minima augue sed et nam, convallis tempus, justo nibh enim arcu ad qui ut.'
             }
           ]
         },

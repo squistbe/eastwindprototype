@@ -3346,144 +3346,144 @@
 
 /* including package eastwind */
 /* line 252, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-panel-dashboard-item {
+.x-panel-panel-large {
   border-color: #f5f5f5;
   padding: 0;
 }
 
 /* line 258, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-panel-header-dashboard-item {
-  font-size: 20px;
+.x-panel-header-panel-large {
+  font-size: 30px;
   border: 1px solid #f5f5f5;
 }
 /* line 265, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-panel-header-dashboard-item .x-tool-img {
+.x-panel-header-panel-large .x-tool-img {
   background-color: #f5f5f5;
 }
 
 /* line 278, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-panel-header-dashboard-item-horizontal {
+.x-panel-header-panel-large-horizontal {
   padding: 9px 9px 10px 9px;
 }
 /* line 282, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-panel-header-dashboard-item-horizontal .x-panel-header-dashboard-item-tab-bar {
+.x-panel-header-panel-large-horizontal .x-panel-header-panel-large-tab-bar {
   margin-top: -9px;
   margin-bottom: -10px;
 }
 
 /* line 290, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-panel-header-dashboard-item-horizontal.x-header-noborder {
+.x-panel-header-panel-large-horizontal.x-header-noborder {
   padding: 10px 10px 10px 10px;
 }
 /* line 294, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-panel-header-dashboard-item-horizontal.x-header-noborder .x-panel-header-dashboard-item-tab-bar {
+.x-panel-header-panel-large-horizontal.x-header-noborder .x-panel-header-panel-large-tab-bar {
   margin-top: -10px;
   margin-bottom: -10px;
 }
 
 /* line 302, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-panel-header-dashboard-item-vertical {
+.x-panel-header-panel-large-vertical {
   padding: 9px 9px 9px 10px;
 }
 /* line 306, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-panel-header-dashboard-item-vertical .x-panel-header-dashboard-item-tab-bar {
+.x-panel-header-panel-large-vertical .x-panel-header-panel-large-tab-bar {
   margin-right: -9px;
   margin-left: -10px;
 }
 
 /* line 314, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-panel-header-dashboard-item-vertical.x-header-noborder {
+.x-panel-header-panel-large-vertical.x-header-noborder {
   padding: 10px 10px 10px 10px;
 }
 /* line 318, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-panel-header-dashboard-item-vertical.x-header-noborder .x-panel-header-dashboard-item-tab-bar {
+.x-panel-header-panel-large-vertical.x-header-noborder .x-panel-header-panel-large-tab-bar {
   margin-right: -10px;
   margin-left: -10px;
 }
 
 /* line 327, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-rtl.x-panel-header-dashboard-item-vertical {
+.x-rtl.x-panel-header-panel-large-vertical {
   padding: 9px 10px 9px 9px;
 }
 /* line 331, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-rtl.x-panel-header-dashboard-item-vertical .x-panel-header-dashboard-item-tab-bar {
+.x-rtl.x-panel-header-panel-large-vertical .x-panel-header-panel-large-tab-bar {
   margin-left: -9px;
   margin-right: -10px;
 }
 
 /* line 339, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-rtl.x-panel-header-dashboard-item-vertical.x-header-noborder {
+.x-rtl.x-panel-header-panel-large-vertical.x-header-noborder {
   padding: 10px 10px 10px 10px;
 }
 /* line 343, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-rtl.x-panel-header-dashboard-item-vertical.x-header-noborder .x-panel-header-dashboard-item-tab-bar {
+.x-rtl.x-panel-header-panel-large-vertical.x-header-noborder .x-panel-header-panel-large-tab-bar {
   margin-left: -10px;
   margin-right: -10px;
 }
 
 /* line 352, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-panel-header-title-dashboard-item {
+.x-panel-header-title-panel-large {
   color: #0a6eb6;
-  font-size: 20px;
+  font-size: 30px;
   font-weight: 300;
   font-family: helvetica, arial, verdana, sans-serif;
-  line-height: 26px;
+  line-height: 36px;
 }
 /* line 365, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-panel-header-title-dashboard-item > .x-title-text-dashboard-item {
+.x-panel-header-title-panel-large > .x-title-text-panel-large {
   text-transform: none;
   padding: 0;
 }
 /* line 390, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-panel-header-title-dashboard-item > .x-title-icon-wrap-dashboard-item.x-title-icon-top {
+.x-panel-header-title-panel-large > .x-title-icon-wrap-panel-large.x-title-icon-top {
   height: 22px;
   padding-bottom: 6px;
 }
 /* line 395, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-panel-header-title-dashboard-item > .x-title-icon-wrap-dashboard-item.x-title-icon-right {
+.x-panel-header-title-panel-large > .x-title-icon-wrap-panel-large.x-title-icon-right {
   width: 22px;
   padding-left: 6px;
 }
 /* line 400, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-panel-header-title-dashboard-item > .x-title-icon-wrap-dashboard-item.x-title-icon-right.x-rtl {
+.x-panel-header-title-panel-large > .x-title-icon-wrap-panel-large.x-title-icon-right.x-rtl {
   padding-left: 0;
   padding-right: 6px;
 }
 /* line 407, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-panel-header-title-dashboard-item > .x-title-icon-wrap-dashboard-item.x-title-icon-bottom {
+.x-panel-header-title-panel-large > .x-title-icon-wrap-panel-large.x-title-icon-bottom {
   height: 22px;
   padding-top: 6px;
 }
 /* line 412, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-panel-header-title-dashboard-item > .x-title-icon-wrap-dashboard-item.x-title-icon-left {
+.x-panel-header-title-panel-large > .x-title-icon-wrap-panel-large.x-title-icon-left {
   width: 22px;
   padding-right: 6px;
 }
 /* line 417, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-panel-header-title-dashboard-item > .x-title-icon-wrap-dashboard-item.x-title-icon-left.x-rtl {
+.x-panel-header-title-panel-large > .x-title-icon-wrap-panel-large.x-title-icon-left.x-rtl {
   padding-right: 0;
   padding-left: 6px;
 }
 /* line 424, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-panel-header-title-dashboard-item > .x-title-icon-wrap-dashboard-item > .x-title-icon-dashboard-item {
+.x-panel-header-title-panel-large > .x-title-icon-wrap-panel-large > .x-title-icon-panel-large {
   width: 16px;
   height: 16px;
   background-position: center center;
 }
 /* line 430, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-panel-header-title-dashboard-item > .x-title-icon-wrap-dashboard-item > .x-title-glyph {
+.x-panel-header-title-panel-large > .x-title-icon-wrap-panel-large > .x-title-glyph {
   color: #0a6eb6;
   font-size: 16px;
   line-height: 16px;
   opacity: 0.5;
 }
 /* line 447, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-ie8 .x-panel-header-title-dashboard-item > .x-title-icon-wrap-dashboard-item > .x-title-glyph {
+.x-ie8 .x-panel-header-title-panel-large > .x-title-icon-wrap-panel-large > .x-title-glyph {
   color: #7fb1d5;
 }
 
 /* line 457, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-panel-body-dashboard-item {
+.x-panel-body-panel-large {
   background: white;
   border-color: #cecece;
   color: black;
@@ -3495,37 +3495,37 @@
 }
 
 /* line 621, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-panel-header-dashboard-item {
+.x-panel-header-panel-large {
   background-image: none;
   background-color: #f5f5f5;
 }
 
 /* line 625, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-panel-header-dashboard-item-vertical {
+.x-panel-header-panel-large-vertical {
   background-image: none;
   background-color: #f5f5f5;
 }
 
 /* line 630, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-rtl.x-panel-header-dashboard-item-vertical {
+.x-rtl.x-panel-header-panel-large-vertical {
   background-image: none;
   background-color: #f5f5f5;
 }
 
 /* line 683, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-panel .x-panel-header-dashboard-item-collapsed-border-top {
+.x-panel .x-panel-header-panel-large-collapsed-border-top {
   border-bottom-width: 1px !important;
 }
 /* line 687, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-panel .x-panel-header-dashboard-item-collapsed-border-right {
+.x-panel .x-panel-header-panel-large-collapsed-border-right {
   border-left-width: 1px !important;
 }
 /* line 691, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-panel .x-panel-header-dashboard-item-collapsed-border-bottom {
+.x-panel .x-panel-header-panel-large-collapsed-border-bottom {
   border-top-width: 1px !important;
 }
 /* line 695, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-panel .x-panel-header-dashboard-item-collapsed-border-left {
+.x-panel .x-panel-header-panel-large-collapsed-border-left {
   border-right-width: 1px !important;
 }
 
@@ -3534,68 +3534,68 @@
 /* */
 /* */
 /* line 731, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-panel-header-dashboard-item-horizontal .x-tool-after-title {
+.x-panel-header-panel-large-horizontal .x-tool-after-title {
   margin: 0 0 0 6px;
 }
 /* line 736, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-panel-header-dashboard-item-horizontal .x-rtl.x-tool-after-title {
+.x-panel-header-panel-large-horizontal .x-rtl.x-tool-after-title {
   margin: 0 6px 0 0;
 }
 /* line 741, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-panel-header-dashboard-item-horizontal .x-tool-before-title {
+.x-panel-header-panel-large-horizontal .x-tool-before-title {
   margin: 0 6px 0 0;
 }
 /* line 746, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-panel-header-dashboard-item-horizontal .x-rtl.x-tool-before-title {
+.x-panel-header-panel-large-horizontal .x-rtl.x-tool-before-title {
   margin: 0 0 0 6px;
 }
 
 /* line 753, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-panel-header-dashboard-item-vertical .x-tool-after-title {
+.x-panel-header-panel-large-vertical .x-tool-after-title {
   margin: 6px 0 0 0;
 }
 /* line 758, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-panel-header-dashboard-item-vertical .x-rtl.x-tool-after-title {
+.x-panel-header-panel-large-vertical .x-rtl.x-tool-after-title {
   margin: 6px 0 0 0;
 }
 /* line 763, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-panel-header-dashboard-item-vertical .x-tool-before-title {
+.x-panel-header-panel-large-vertical .x-tool-before-title {
   margin: 0 0 6px 0;
 }
 /* line 768, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-panel-header-dashboard-item-vertical .x-rtl.x-tool-before-title {
+.x-panel-header-panel-large-vertical .x-rtl.x-tool-before-title {
   margin: 0 0 6px 0;
 }
 
 /* line 776, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-rtl.x-panel-header-dashboard-item-collapsed-border-right {
+.x-rtl.x-panel-header-panel-large-collapsed-border-right {
   border-right-width: 1px !important;
 }
 /* line 779, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-rtl.x-panel-header-dashboard-item-collapsed-border-left {
+.x-rtl.x-panel-header-panel-large-collapsed-border-left {
   border-left-width: 1px !important;
 }
 
 /* line 793, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-neutral/sass/src/panel/Panel.scss */
-.x-panel-dashboard-item-resizable .x-panel-handle {
+.x-panel-panel-large-resizable .x-panel-handle {
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
   opacity: 0;
 }
 
 /* line 2, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-base/sass/etc/mixins/border-management.scss */
-.x-panel-dashboard-item-outer-border-l {
+.x-panel-panel-large-outer-border-l {
   border-left-color: #f5f5f5 !important;
   border-left-width: 1px !important;
 }
 
 /* line 6, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-base/sass/etc/mixins/border-management.scss */
-.x-panel-dashboard-item-outer-border-b {
+.x-panel-panel-large-outer-border-b {
   border-bottom-color: #f5f5f5 !important;
   border-bottom-width: 1px !important;
 }
 
 /* line 10, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-base/sass/etc/mixins/border-management.scss */
-.x-panel-dashboard-item-outer-border-bl {
+.x-panel-panel-large-outer-border-bl {
   border-bottom-color: #f5f5f5 !important;
   border-bottom-width: 1px !important;
   border-left-color: #f5f5f5 !important;
@@ -3603,13 +3603,13 @@
 }
 
 /* line 16, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-base/sass/etc/mixins/border-management.scss */
-.x-panel-dashboard-item-outer-border-r {
+.x-panel-panel-large-outer-border-r {
   border-right-color: #f5f5f5 !important;
   border-right-width: 1px !important;
 }
 
 /* line 20, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-base/sass/etc/mixins/border-management.scss */
-.x-panel-dashboard-item-outer-border-rl {
+.x-panel-panel-large-outer-border-rl {
   border-right-color: #f5f5f5 !important;
   border-right-width: 1px !important;
   border-left-color: #f5f5f5 !important;
@@ -3617,7 +3617,7 @@
 }
 
 /* line 26, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-base/sass/etc/mixins/border-management.scss */
-.x-panel-dashboard-item-outer-border-rb {
+.x-panel-panel-large-outer-border-rb {
   border-right-color: #f5f5f5 !important;
   border-right-width: 1px !important;
   border-bottom-color: #f5f5f5 !important;
@@ -3625,7 +3625,7 @@
 }
 
 /* line 32, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-base/sass/etc/mixins/border-management.scss */
-.x-panel-dashboard-item-outer-border-rbl {
+.x-panel-panel-large-outer-border-rbl {
   border-right-color: #f5f5f5 !important;
   border-right-width: 1px !important;
   border-bottom-color: #f5f5f5 !important;
@@ -3635,13 +3635,13 @@
 }
 
 /* line 40, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-base/sass/etc/mixins/border-management.scss */
-.x-panel-dashboard-item-outer-border-t {
+.x-panel-panel-large-outer-border-t {
   border-top-color: #f5f5f5 !important;
   border-top-width: 1px !important;
 }
 
 /* line 44, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-base/sass/etc/mixins/border-management.scss */
-.x-panel-dashboard-item-outer-border-tl {
+.x-panel-panel-large-outer-border-tl {
   border-top-color: #f5f5f5 !important;
   border-top-width: 1px !important;
   border-left-color: #f5f5f5 !important;
@@ -3649,7 +3649,7 @@
 }
 
 /* line 50, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-base/sass/etc/mixins/border-management.scss */
-.x-panel-dashboard-item-outer-border-tb {
+.x-panel-panel-large-outer-border-tb {
   border-top-color: #f5f5f5 !important;
   border-top-width: 1px !important;
   border-bottom-color: #f5f5f5 !important;
@@ -3657,7 +3657,7 @@
 }
 
 /* line 56, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-base/sass/etc/mixins/border-management.scss */
-.x-panel-dashboard-item-outer-border-tbl {
+.x-panel-panel-large-outer-border-tbl {
   border-top-color: #f5f5f5 !important;
   border-top-width: 1px !important;
   border-bottom-color: #f5f5f5 !important;
@@ -3667,7 +3667,7 @@
 }
 
 /* line 64, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-base/sass/etc/mixins/border-management.scss */
-.x-panel-dashboard-item-outer-border-tr {
+.x-panel-panel-large-outer-border-tr {
   border-top-color: #f5f5f5 !important;
   border-top-width: 1px !important;
   border-right-color: #f5f5f5 !important;
@@ -3675,7 +3675,7 @@
 }
 
 /* line 70, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-base/sass/etc/mixins/border-management.scss */
-.x-panel-dashboard-item-outer-border-trl {
+.x-panel-panel-large-outer-border-trl {
   border-top-color: #f5f5f5 !important;
   border-top-width: 1px !important;
   border-right-color: #f5f5f5 !important;
@@ -3685,7 +3685,7 @@
 }
 
 /* line 78, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-base/sass/etc/mixins/border-management.scss */
-.x-panel-dashboard-item-outer-border-trb {
+.x-panel-panel-large-outer-border-trb {
   border-top-color: #f5f5f5 !important;
   border-top-width: 1px !important;
   border-right-color: #f5f5f5 !important;
@@ -3695,7 +3695,7 @@
 }
 
 /* line 86, /Users/spencer.quistberg/dev/mosaic-client/Web/src/main/webapp/eastwind/build/temp/development/EastWind/sass/../../../../../ext/packages/ext-theme-base/sass/etc/mixins/border-management.scss */
-.x-panel-dashboard-item-outer-border-trbl {
+.x-panel-panel-large-outer-border-trbl {
   border-color: #f5f5f5 !important;
   border-width: 1px !important;
 }
